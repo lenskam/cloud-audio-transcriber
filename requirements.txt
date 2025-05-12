@@ -1,0 +1,7 @@
+google-auth==2.29.0
+google-auth-oauthlib==1.2.2
+google-api-python-client==2.127.0
+openai-whisper
+pydub
+python-dotenv
+faster-whisper
