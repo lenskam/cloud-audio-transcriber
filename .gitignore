@@ -4,3 +4,4 @@ downloads/
 transcripts/
 token.json
 credentials.json
+whisper_models/
